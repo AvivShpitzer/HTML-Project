@@ -34,19 +34,19 @@ body,html,html a {
 p {
   font-size:15px;
   font-weight:400;
-  color:#a6a7aa;
+  color:#2d1d2f;
   margin-bottom:15px}
 /* === תגיות HTML בסיסיות === */
 em,li,li a {
   font-size:16px;
   font-weight:500;
-  color:#515769}
+  color:#2d1d2f}
 /* === תגיות HTML בסיסיות === */
 a {
-  color:#81848f}
+  color:#2d1d2f}
 /* === תגיות HTML בסיסיות === */
 a:active,a:focus,a:hover {
-  color:#999caa}
+  color:#2d1d2f}
 /* === טיפוגרפיה וכוונות טקסט === */
 .link {
   font-size:13px;
@@ -69,7 +69,7 @@ span {
 /* === טיפוגרפיה וכוונות טקסט === */
 h1,h2,h3,h4,h5,h6 {
   font-weight:700;
-  color:#515769;
+  color:#f99f00;
   line-height:1.4;
   margin:0 0 15px}
 /* === תגיות HTML בסיסיות === */
@@ -692,7 +692,7 @@ h3,h4 {
   color:#fafafa!important}
 /* === Utility Classes: צבעים, מרווחים, רוחב === */
 .bg-color-base {
-  background:#17bed2!important}
+  background:#1c535a!important}
 /* === Utility Classes: צבעים, מרווחים, רוחב === */
 .bg-color-white {
   background:#fff!important}
