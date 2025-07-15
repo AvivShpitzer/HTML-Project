@@ -205,7 +205,7 @@ h3,h4 {
   width:40px;
   height:40px;
   font-size:16px;
-  color:#79ffec;
+  color:#fafea4;
   border-radius:50%;
   padding:11px;
   transition-duration:.3s;
@@ -231,7 +231,7 @@ h3,h4 {
   padding:220px 0 130px}
 .promo-block .promo-block-title {
   font-size:70px;
-  color:#fff;
+  color:#fafea4;
   line-height:1}
 @media (max-width:480px) {
   .promo-block .promo-block-title {
@@ -239,7 +239,7 @@ h3,h4 {
 }
 .promo-block .promo-block-text {
   font-size:25px;
-  color:#fff}
+  color:#fafea4}
 .promo-block .promo-block-divider {
   border-bottom:1px solid rgba(255,255,255,.4);
   padding-bottom:20px;
