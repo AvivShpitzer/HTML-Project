@@ -111,20 +111,38 @@ button:hover, .btn-theme:hover, .btn-default-bg:hover {
   background: #483d8b;
 }
 
-/* שאר עיצוב בסיס */
+/* שאר עיצוב בסיס */ 
 .promo-block {
-  background: linear-gradient(to right, #6a5acd, #836fff);
-  color: #fff;
-  padding: 120px 0;
+  padding: 600px 0 130px;
+  background-image: url('../img/1920x1080/mi.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
-.promo-block-title {
-  font-size: 48px;
-  font-weight: 700;
+.image-with-space {
+  margin-bottom: 20px;
 }
-.promo-block-text {
-  font-size: 20px;
-  margin-top: 10px;
+.promo-block .promo-block-title {
+  font-size: 70px;
+  color: #8B0000; /* White title for better contrast on image */
+  line-height: 1;
 }
+
+@media (max-width: 480px) {
+  .promo-block .promo-block-title {
+    font-size: 50px;
+  }
+}
+.promo-block .promo-block-text {
+  font-size: 25px;
+  color: #fff; /* White text for better contrast */
+}
+.promo-block .promo-block-divider {
+  border-bottom: 1px solid rgba(255, 255, 255, .4);
+  padding-bottom: 20px;
+  margin-bottom: 35px;
+  
+
 .social-icons i {
   font-size: 22px;
   color: #ffffff;
