@@ -156,3 +156,15 @@ button:hover, .btn-theme:hover, .btn-default-bg:hover {
 .back-to-top:hover {
   background: #483d8b;
 }
+
+/* עיצוב התמונה מתחת לתפריט - הוספה חדשה */
+.hero-image {
+    width: 100%;
+    margin-top: 0;
+}
+
+.hero-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
